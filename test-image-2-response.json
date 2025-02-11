@@ -1,0 +1,284 @@
+{
+  "id": 26211,
+  "date": "2025-02-10T22:13:30",
+  "date_gmt": "2025-02-10T22:13:30",
+  "guid": {
+    "rendered": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png",
+    "raw": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png"
+  },
+  "modified": "2025-02-10T22:13:30",
+  "modified_gmt": "2025-02-10T22:13:30",
+  "slug": "test-image-2-3",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://www.asylum-welcome.org/test-image-2-3/",
+  "title": {
+    "raw": "test-image-2-3",
+    "rendered": "test-image-2-3"
+  },
+  "author": 25,
+  "featured_media": 0,
+  "comment_status": "",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_acf_changed": false
+  },
+  "media_folder": [],
+  "permalink_template": "https://www.asylum-welcome.org/?attachment_id=26211",
+  "generated_slug": "test-image-2-3",
+  "class_list": [
+    "post-26211",
+    "attachment",
+    "type-attachment",
+    "status-inherit",
+    "hentry"
+  ],
+  "acf": [],
+  "publishpress_future_workflow_manual_trigger": {
+    "enabledWorkflows": []
+  },
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a data-rel=\"iLightbox[postimages]\" data-title=\"\" data-caption=\"\" href='https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png'><img decoding=\"async\" width=\"400\" height=\"400\" src=\"https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-400x400.png\" class=\"attachment-medium size-medium lazyload\" alt=\"\" srcset=\"data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271024%27%20height%3D%271024%27%20viewBox%3D%270%200%201024%201024%27%3E%3Crect%20width%3D%271024%27%20height%3D%271024%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E\" data-orig-src=\"https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-400x400.png\" data-srcset=\"https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-66x66.png 66w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-150x150.png 150w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-200x200.png 200w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-400x400.png 400w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-600x600.png 600w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-768x768.png 768w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-800x800.png 800w, https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png 1024w\" data-sizes=\"auto\" /></a></p>\n"
+  },
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+    "width": 1024,
+    "height": 1024,
+    "file": "2025/02/test-image-2-3.png",
+    "filesize": 422043,
+    "sizes": {
+      "medium": {
+        "file": "test-image-2-3-400x400.png",
+        "width": 400,
+        "height": 400,
+        "filesize": 217335,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-400x400.png"
+      },
+      "thumbnail": {
+        "file": "test-image-2-3-150x150.png",
+        "width": 150,
+        "height": 150,
+        "filesize": 40384,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-150x150.png"
+      },
+      "medium_large": {
+        "file": "test-image-2-3-768x768.png",
+        "width": 768,
+        "height": 768,
+        "filesize": 784538,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-768x768.png"
+      },
+      "blog-large": {
+        "file": "test-image-2-3-669x272.png",
+        "width": 669,
+        "height": 272,
+        "filesize": 242809,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-669x272.png"
+      },
+      "blog-medium": {
+        "file": "test-image-2-3-320x202.png",
+        "width": 320,
+        "height": 202,
+        "filesize": 95533,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-320x202.png"
+      },
+      "recent-posts": {
+        "file": "test-image-2-3-700x441.png",
+        "width": 700,
+        "height": 441,
+        "filesize": 419063,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-700x441.png"
+      },
+      "recent-works-thumbnail": {
+        "file": "test-image-2-3-66x66.png",
+        "width": 66,
+        "height": 66,
+        "filesize": 9555,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-66x66.png"
+      },
+      "fusion-200": {
+        "file": "test-image-2-3-200x200.png",
+        "width": 200,
+        "height": 200,
+        "filesize": 65511,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-200x200.png"
+      },
+      "fusion-400": {
+        "file": "test-image-2-3-400x400.png",
+        "width": 400,
+        "height": 400,
+        "filesize": 217335,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-400x400.png"
+      },
+      "fusion-600": {
+        "file": "test-image-2-3-600x600.png",
+        "width": 600,
+        "height": 600,
+        "filesize": 473163,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-600x600.png"
+      },
+      "fusion-800": {
+        "file": "test-image-2-3-800x800.png",
+        "width": 800,
+        "height": 800,
+        "filesize": 857750,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-800x800.png"
+      },
+      "portfolio-full": {
+        "file": "test-image-2-3-940x400.png",
+        "width": 940,
+        "height": 400,
+        "filesize": 516149,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-940x400.png"
+      },
+      "portfolio-one": {
+        "file": "test-image-2-3-540x272.png",
+        "width": 540,
+        "height": 272,
+        "filesize": 195512,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-540x272.png"
+      },
+      "portfolio-two": {
+        "file": "test-image-2-3-460x295.png",
+        "width": 460,
+        "height": 295,
+        "filesize": 183859,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-460x295.png"
+      },
+      "portfolio-three": {
+        "file": "test-image-2-3-300x214.png",
+        "width": 300,
+        "height": 214,
+        "filesize": 96973,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-300x214.png"
+      },
+      "portfolio-five": {
+        "file": "test-image-2-3-177x142.png",
+        "width": 177,
+        "height": 142,
+        "filesize": 43827,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3-177x142.png"
+      },
+      "full": {
+        "file": "test-image-2-3.png",
+        "width": 1024,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png"
+      }
+    },
+    "image_meta": {
+      "aperture": "0",
+      "credit": "",
+      "camera": "",
+      "caption": "",
+      "created_timestamp": "0",
+      "copyright": "",
+      "focal_length": "0",
+      "iso": "0",
+      "shutter_speed": "0",
+      "title": "",
+      "orientation": "0",
+      "keywords": []
+    }
+  },
+  "post": null,
+  "source_url": "https://www.asylum-welcome.org/wp-content/uploads/2025/02/test-image-2-3.png",
+  "missing_image_sizes": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media/26211",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/users/25"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/comments?post=26211"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "media_folder",
+        "embeddable": true,
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media_folder?post=26211"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media/26211"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media/26211"
+      }
+    ],
+    "wp:action-create-media_folder": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media/26211"
+      }
+    ],
+    "wp:action-assign-media_folder": [
+      {
+        "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media/26211"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

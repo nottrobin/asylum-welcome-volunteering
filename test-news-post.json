@@ -1,0 +1,9 @@
+{
+  "title": {"raw": "My test community news post"},
+  "content": {"raw": "Some content for the post"},
+  "acf": {
+    "content_title": "here's some ACF content baby!",
+    "description": "Beautiful content baby! <img class=\"alignnone wp-image-26078 size-large\" src=\"https://www.asylum-welcome.org/wp-content/uploads/2025/01/Free-Music-Lessons-724x1024.jpg\" alt=\"\" width=\"724\" height=\"1024\" />",
+    "read_more_link": "https://robinwinslow.uk"
+  }
+}

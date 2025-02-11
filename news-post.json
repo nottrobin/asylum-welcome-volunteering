@@ -1,0 +1,233 @@
+[
+  {
+    "id": 26171,
+    "date": "2025-02-07T12:06:36",
+    "date_gmt": "2025-02-07T12:06:36",
+    "guid": {
+      "rendered": "https://www.asylum-welcome.org/community_news/mindful-refuge-group-oxford-copy/"
+    },
+    "modified": "2025-02-07T12:20:46",
+    "modified_gmt": "2025-02-07T12:20:46",
+    "slug": "vaccines-information",
+    "status": "publish",
+    "type": "community_news",
+    "link": "https://www.asylum-welcome.org/community_news/vaccines-information/",
+    "title": {
+      "rendered": "All About Vaccines &#8211; Information Session (Oxford)"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "featured_media": 0,
+    "template": "",
+    "location": [
+      191
+    ],
+    "community_news_topic": [
+      230,
+      203
+    ],
+    "audience": [
+      215
+    ],
+    "class_list": [
+      "post-26171",
+      "community_news",
+      "type-community_news",
+      "status-publish",
+      "hentry",
+      "location-oxford",
+      "community_news_topic-health-wellbeing",
+      "community_news_topic-information-advice",
+      "audience-all"
+    ],
+    "acf": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v24.3 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>All About Vaccines - Information Session (Oxford) - Asylum Welcome</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.asylum-welcome.org/community_news/vaccines-information/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"All About Vaccines - Information Session (Oxford) - Asylum Welcome\" />\n<meta property=\"og:url\" content=\"https://www.asylum-welcome.org/community_news/vaccines-information/\" />\n<meta property=\"og:site_name\" content=\"Asylum Welcome\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/AsylumWelcome\" />\n<meta property=\"article:modified_time\" content=\"2025-02-07T12:20:46+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@AsylumWelcome\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.asylum-welcome.org/community_news/vaccines-information/\",\"url\":\"https://www.asylum-welcome.org/community_news/vaccines-information/\",\"name\":\"All About Vaccines - Information Session (Oxford) - Asylum Welcome\",\"isPartOf\":{\"@id\":\"https://www.asylum-welcome.org/#website\"},\"datePublished\":\"2025-02-07T12:06:36+00:00\",\"dateModified\":\"2025-02-07T12:20:46+00:00\",\"breadcrumb\":{\"@id\":\"https://www.asylum-welcome.org/community_news/vaccines-information/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.asylum-welcome.org/community_news/vaccines-information/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.asylum-welcome.org/community_news/vaccines-information/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.asylum-welcome.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Community News\",\"item\":\"https://www.asylum-welcome.org/community_news/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"All About Vaccines &#8211; Information Session (Oxford)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.asylum-welcome.org/#website\",\"url\":\"https://www.asylum-welcome.org/\",\"name\":\"Asylum Welcome\",\"description\":\"Asylum Welcome offers information, advice, practical support and solidarity to asylum seekers, refugees and vulnerable migrants living in Oxfordshire.\",\"publisher\":{\"@id\":\"https://www.asylum-welcome.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.asylum-welcome.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.asylum-welcome.org/#organization\",\"name\":\"Asylum Welcome\",\"url\":\"https://www.asylum-welcome.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.asylum-welcome.org/#/schema/logo/image/\",\"url\":\"https://www.asylum-welcome.org/wp-content/uploads/2021/06/awlogo.jpg\",\"contentUrl\":\"https://www.asylum-welcome.org/wp-content/uploads/2021/06/awlogo.jpg\",\"width\":190,\"height\":93,\"caption\":\"Asylum Welcome\"},\"image\":{\"@id\":\"https://www.asylum-welcome.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/AsylumWelcome\",\"https://x.com/AsylumWelcome\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "All About Vaccines - Information Session (Oxford) - Asylum Welcome",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://www.asylum-welcome.org/community_news/vaccines-information/",
+      "og_locale": "en_US",
+      "og_type": "article",
+      "og_title": "All About Vaccines - Information Session (Oxford) - Asylum Welcome",
+      "og_url": "https://www.asylum-welcome.org/community_news/vaccines-information/",
+      "og_site_name": "Asylum Welcome",
+      "article_publisher": "https://www.facebook.com/AsylumWelcome",
+      "article_modified_time": "2025-02-07T12:20:46+00:00",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@AsylumWelcome",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://www.asylum-welcome.org/community_news/vaccines-information/",
+            "url": "https://www.asylum-welcome.org/community_news/vaccines-information/",
+            "name": "All About Vaccines - Information Session (Oxford) - Asylum Welcome",
+            "isPartOf": {
+              "@id": "https://www.asylum-welcome.org/#website"
+            },
+            "datePublished": "2025-02-07T12:06:36+00:00",
+            "dateModified": "2025-02-07T12:20:46+00:00",
+            "breadcrumb": {
+              "@id": "https://www.asylum-welcome.org/community_news/vaccines-information/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.asylum-welcome.org/community_news/vaccines-information/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.asylum-welcome.org/community_news/vaccines-information/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://www.asylum-welcome.org/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Community News",
+                "item": "https://www.asylum-welcome.org/community_news/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "All About Vaccines &#8211; Information Session (Oxford)"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.asylum-welcome.org/#website",
+            "url": "https://www.asylum-welcome.org/",
+            "name": "Asylum Welcome",
+            "description": "Asylum Welcome offers information, advice, practical support and solidarity to asylum seekers, refugees and vulnerable migrants living in Oxfordshire.",
+            "publisher": {
+              "@id": "https://www.asylum-welcome.org/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.asylum-welcome.org/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://www.asylum-welcome.org/#organization",
+            "name": "Asylum Welcome",
+            "url": "https://www.asylum-welcome.org/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://www.asylum-welcome.org/#/schema/logo/image/",
+              "url": "https://www.asylum-welcome.org/wp-content/uploads/2021/06/awlogo.jpg",
+              "contentUrl": "https://www.asylum-welcome.org/wp-content/uploads/2021/06/awlogo.jpg",
+              "width": 190,
+              "height": 93,
+              "caption": "Asylum Welcome"
+            },
+            "image": {
+              "@id": "https://www.asylum-welcome.org/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/AsylumWelcome",
+              "https://x.com/AsylumWelcome"
+            ]
+          }
+        ]
+      }
+    },
+    "publishpress_future_action": {
+      "enabled": false,
+      "date": "2025-02-17 20:29:22",
+      "action": "change-status",
+      "newStatus": "draft",
+      "terms": [],
+      "taxonomy": "location"
+    },
+    "publishpress_future_workflow_manual_trigger": {
+      "enabledWorkflows": []
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/community_news/26171",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/community_news"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/types/community_news"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/media?parent=26171"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "location",
+          "embeddable": true,
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/location?post=26171"
+        },
+        {
+          "taxonomy": "community_news_topic",
+          "embeddable": true,
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/community_news_topic?post=26171"
+        },
+        {
+          "taxonomy": "audience",
+          "embeddable": true,
+          "href": "https://www.asylum-welcome.org/wp-json/wp/v2/audience?post=26171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
